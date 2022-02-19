@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.controller;
+package one.digitalinnovation.personapi;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
